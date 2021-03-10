@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-kursprojekt-dev-81406-authRole",
+      "UnauthRoleArn": "arn:aws:iam::492846829231:role/amplify-kursprojekt-dev-81406-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::492846829231:role/amplify-kursprojekt-dev-81406-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-kursprojekt-dev-81406-deployment",
+      "UnauthRoleName": "amplify-kursprojekt-dev-81406-unauthRole",
+      "StackName": "amplify-kursprojekt-dev-81406",
+      "StackId": "arn:aws:cloudformation:us-east-2:492846829231:stack/amplify-kursprojekt-dev-81406/34d051c0-8170-11eb-a669-0aed204647fe",
+      "AmplifyAppId": "d37c22ey35r7hr"
+    },
+    "categories": {
+      "auth": {
+        "kursprojekt66f2a26c": {}
+      }
+    }
+  }
+}

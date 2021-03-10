@@ -1,0 +1,37 @@
+{
+  "providers": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-kursprojekt-dev-81406-authRole",
+      "UnauthRoleArn": "arn:aws:iam::492846829231:role/amplify-kursprojekt-dev-81406-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::492846829231:role/amplify-kursprojekt-dev-81406-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-kursprojekt-dev-81406-deployment",
+      "UnauthRoleName": "amplify-kursprojekt-dev-81406-unauthRole",
+      "StackName": "amplify-kursprojekt-dev-81406",
+      "StackId": "arn:aws:cloudformation:us-east-2:492846829231:stack/amplify-kursprojekt-dev-81406/34d051c0-8170-11eb-a669-0aed204647fe",
+      "AmplifyAppId": "d37c22ey35r7hr"
+    }
+  },
+  "auth": {
+    "kursprojekt66f2a26c": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false,
+      "providerMetadata": {
+        "s3TemplateURL": "https://s3.amazonaws.com/amplify-kursprojekt-dev-81406-deployment/amplify-cfn-templates/auth/kursprojekt66f2a26c-cloudformation-template.yml",
+        "logicalId": "authkursprojekt66f2a26c"
+      },
+      "lastPushTimeStamp": "2021-03-10T07:22:01.577Z",
+      "output": {
+        "UserPoolId": "us-east-2_6mpXHW0CY",
+        "AppClientIDWeb": "eh4mpam82pvrnkcfbnmilv79k",
+        "AppClientID": "3jpu1d3a6gnin22j89aijvjl9j",
+        "IdentityPoolId": "us-east-2:1b73427d-6de4-4af4-9b47-dd81068dc820",
+        "IdentityPoolName": "kursprojekt66f2a26c_identitypool_66f2a26c__dev",
+        "UserPoolName": "kursprojekt66f2a26c_userpool_66f2a26c"
+      },
+      "lastPushDirHash": "ZhYCMg1fCDUpN2IkdCT0wz3Awb0="
+    }
+  }
+}
