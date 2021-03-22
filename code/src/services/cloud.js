@@ -6,6 +6,7 @@ export const configCloud = () => {
     Amplify.configure(awsconfig);
     Auth.configure(awsconfig);
   };
+  
 
   export const auth_logout = async () => {
     try {
