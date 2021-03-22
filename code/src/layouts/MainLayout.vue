@@ -11,7 +11,7 @@
           @click="leftDrawerOpen = !leftDrawerOpen"
         />
         <q-toolbar-title>
-          Photo App
+          Photo App2
         </q-toolbar-title>
 
          <div class="absolute-right" v-if="loggedIn">
@@ -54,7 +54,6 @@
 import '@aws-amplify/ui-vue';
 import {auth_logout} from 'src/services/cloud'
 import { onAuthUIStateChange } from '@aws-amplify/ui-components'
-
 
 export default {
   name: 'MainLayout',
