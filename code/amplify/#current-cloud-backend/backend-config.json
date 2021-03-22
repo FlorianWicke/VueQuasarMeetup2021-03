@@ -1,6 +1,6 @@
 {
   "auth": {
-    "kursprojekt66f2a26c": {
+    "fotoappdbb72470": {
       "service": "Cognito",
       "providerPlugin": "awscloudformation",
       "dependsOn": [],

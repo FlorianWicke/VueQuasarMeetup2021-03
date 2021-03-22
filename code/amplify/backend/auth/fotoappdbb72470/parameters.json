@@ -1,8 +1,8 @@
 {
-    "identityPoolName": "kursprojekt66f2a26c_identitypool_66f2a26c",
+    "identityPoolName": "fotoappdbb72470_identitypool_dbb72470",
     "allowUnauthenticatedIdentities": false,
-    "resourceNameTruncated": "kurspr66f2a26c",
-    "userPoolName": "kursprojekt66f2a26c_userpool_66f2a26c",
+    "resourceNameTruncated": "fotoapdbb72470",
+    "userPoolName": "fotoappdbb72470_userpool_dbb72470",
     "autoVerifiedAttributes": [
         "email"
     ],
@@ -28,10 +28,10 @@
     "userpoolClientReadAttributes": [
         "email"
     ],
-    "userpoolClientLambdaRole": "kurspr66f2a26c_userpoolclient_lambda_role",
+    "userpoolClientLambdaRole": "fotoapdbb72470_userpoolclient_lambda_role",
     "userpoolClientSetAttributes": false,
-    "sharedId": "66f2a26c",
-    "resourceName": "kursprojekt66f2a26c",
+    "sharedId": "dbb72470",
+    "resourceName": "fotoappdbb72470",
     "authSelections": "identityPoolAndUserPool",
     "authRoleArn": {
         "Fn::GetAtt": [
